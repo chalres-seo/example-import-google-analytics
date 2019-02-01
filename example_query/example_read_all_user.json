@@ -1,0 +1,8 @@
+{
+  "ids": "ga:101617002",
+  "start_date": "2018-01-01",
+  "end_date": "yesterday",
+  "metrics": "ga:users",
+  "dimensions": "ga:dateHourMinute",
+  "page_row_count": "100000"
+}
